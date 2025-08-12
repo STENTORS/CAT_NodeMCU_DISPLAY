@@ -12,8 +12,8 @@
 
 Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_RST);
 
-const char* ssid     = "BTHub6-T6HX";        
-const char* password = "9vqUKrRMURbn";  
+const char* ssid     = "";        
+const char* password = "";  
 
 WiFiClientSecure client;
 String catUrl;
